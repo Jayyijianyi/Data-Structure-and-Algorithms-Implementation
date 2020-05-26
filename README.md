@@ -32,6 +32,7 @@ Example:
 Now, the array is already sorted, but our algorithm does not know if it is completed. The algorithm needs one whole pass without any swap to know it is sorted.
 
 **Third Pass:**
+
 ( **1 4** 2 5 8 ) –> ( **1 4** 2 5 8 )
 
 ( 1 **2 4** 5 8 ) –> ( 1 **2 4** 5 8 )
@@ -41,5 +42,6 @@ Now, the array is already sorted, but our algorithm does not know if it is compl
 ( 1 2 4 **5 8** ) –>  ( 1 2 4 **5 8** )
 
 
-**orst and Average Case Time Complexity**: O(n*n). Worst case occurs when array is reverse sorted.
+**Worst and Average Case Time Complexity**: O(n*n). Worst case occurs when array is reverse sorted.
+
 **Best Case Time Complexity**: O(n). Best case occurs when array is already sorted.
