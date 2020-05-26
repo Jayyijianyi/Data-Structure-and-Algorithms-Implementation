@@ -1,7 +1,7 @@
 # Java-Algorithm
 ## My progressive learning on data structure and algorithms in Java.
 
-In this repository, I am going to document my code of learning different algorithms in Java with description to understand my work better.
+In this repository, I am going to document my code of implementing different learned algorithms in Java with description to understand my work better.
 
 ### First algorithm learned: _Bubble Sort Algorithm_
 
