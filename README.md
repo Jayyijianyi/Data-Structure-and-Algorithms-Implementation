@@ -44,7 +44,7 @@ Now, the array is already sorted, but our algorithm does not know if it is compl
 
 **Implementation of code:**  [Bubble Sort](Bubble_Sort.java) and [Optimized Bubble Sort](Optimized_Bubble_Sort.java)
 
-**A problem that I have solved:** [Solved]() from [Geeksforgeeks.org](https://practice.geeksforgeeks.org/problems/bubble-sort/1)
+**A problem that I have solved:** [Solved](Bubble_Sorting_Problem.java) from [Geeksforgeeks.org](https://practice.geeksforgeeks.org/problems/bubble-sort/1)
 
 
 **Worst and Average Case Time Complexity**: O(n*n). Worst case occurs when array is reverse sorted.
