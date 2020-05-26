@@ -42,3 +42,9 @@ public class Optimized_Bubble_Sort {
         printArray(array);
     }
 }
+
+/*
+Output:
+Sorted Array: 
+10 15 20 30 45 70 100 
+ */
