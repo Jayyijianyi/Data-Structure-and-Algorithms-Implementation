@@ -36,3 +36,9 @@ public class Bubble_Sort {
         ob.printArray(array);
     }
 }
+/*
+Output:
+Sorted Array: 
+10 15 20 30 45 70 100 
+ */
+
