@@ -42,7 +42,7 @@ Now, the array is already sorted, but our algorithm does not know if it is compl
 ( 1 2 4 **5 8** ) –>  ( 1 2 4 **5 8** )
 
 
-**Implementation of code: [Bubble Sort](Bubble_Sort.java) and [Optimized Bubble Sort]()
+**Implementation of code: [Bubble Sort](Bubble_Sort.java) and [Optimized Bubble Sort](Optimized_Bubble_Sort.java)
 
 
 **Worst and Average Case Time Complexity**: O(n*n). Worst case occurs when array is reverse sorted.
