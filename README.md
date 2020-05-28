@@ -7,7 +7,7 @@ In this repository, I am going to document my code of implementing different lea
 
 
 **Implementation of code:**  
-1. [Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Bubble_Sort.java) and [Optimized Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Optimized_Bubble_Sort.java) in Java.
+1. [Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Bubble_Sort.java) and [Optimized Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Optimized_Bubble_Sort.java) in Java from [geeksforgeeks](https://practice.geeksforgeeks.org/bubble-sort/)
 
 **Problems that I have solved:** 
 1. [Function Problem](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Bubble_Sorting_Problem.java) in Java from [geeksforgeeks](https://practice.geeksforgeeks.org/problems/bubble-sort/1)
