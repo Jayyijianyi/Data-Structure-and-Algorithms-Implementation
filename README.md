@@ -10,7 +10,7 @@ In this repository, I am going to document my code of implementing different lea
 1. [Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Bubble_Sort.java) and [Optimized Bubble Sort](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Optimized_Bubble_Sort.java) in Java.
 
 **Problems that I have solved:** 
-1. [Solved](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20JavaBubble_Sorting_Problem.java) from [Geeksforgeeks.org](https://practice.geeksforgeeks.org/problems/bubble-sort/1) in Java.
+1. [Solved](https://github.com/Jayyijianyi/Data-Structure-and-Algorithms-Implementation/blob/master/Bubble%20Sort%20in%20Java/Bubble_Sorting_Problem.java) in Java.
 
 
 **Worst and Average Case Time Complexity**: O(n*n). Worst case occurs when array is reverse sorted.
